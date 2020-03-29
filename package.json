@@ -6,6 +6,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject"
+  },"engines": {
+    "node": "12.16.x"
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.7",
